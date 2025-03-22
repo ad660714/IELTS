@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <title>文件下载</title>
+</head>
+<body>
+  <h1>下载雅思资料</h1>
+  <p><a href="/files/雅思真题.pdf" download>下载 PDF</a></p>
+  <p><a href="/files/听力音频.mp3" download>下载音频</a></p>
+</body>
+</html>
